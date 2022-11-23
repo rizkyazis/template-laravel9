@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-gray-900{
+    background-color: rgb(17 24 39 / 0.25);
+}
